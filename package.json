@@ -17,7 +17,7 @@
     "url": "git+ssh://git@github.com/WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "Lyrra Evanth",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
