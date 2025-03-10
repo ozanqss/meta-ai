@@ -1,10 +1,5 @@
 # @LyrraEvanth/MetaLibray - Typescript/Javascript WhatsApp Web API
 
-<div align="center">
-  <img src="https://files.catbox.moe/e80k90.mp4" alt="animated banner" />
-  <h1>Baileys - Typescript/Javascript WhatsApp Web API</h1>
-</div>
-
 <div align='center'>
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/whiskeysockets/baileys/total)
